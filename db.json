@@ -1,0 +1,101 @@
+{
+  "product": [
+    {
+      "id": "5",
+      "name": "frigde",
+      "price": "1231231",
+      "description": "tu lanh"
+    },
+    {
+      "avatar": "https://cdn.fakercloud.com/avatars/ruzinav_128.jpg",
+      "id": "1",
+      "name": "frigde",
+      "price": "1231231",
+      "description": "tu lanh"
+    },
+    {
+      "avatar": "https://cdn.fakercloud.com/avatars/ruzinav_128.jpg",
+      "id": "2",
+      "name": "frigde",
+      "price": "99909",
+      "description": "tu lanh"
+    },
+    {
+      "avatar": "https://cdn.fakercloud.com/avatars/ruzinav_128.jpg",
+      "id": "3",
+      "name": "frigde",
+      "price": "1231231",
+      "description": "tu lanh"
+    },
+    {
+      "avatar": "https://cdn.fakercloud.com/avatars/timothycd_128.jpg",
+      "id": "4",
+      "name": "watch",
+      "price": "2999",
+      "description": "xem gio"
+    }
+  ],
+  "register": [
+    {
+      "id": "1",
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "password": "123456"
+    },
+    {
+      "id": "2",
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "password": "123456"
+    }
+  ],
+  "users": [
+    {
+      "email": "Nathan@yesenia.net",
+      "password": "$2a$10$wMhBQVGOzhfVkc2InrNOv.f.1rSfvwXucIWUswsX2bFG4ZsnfVpxO",
+      "id": "3",
+      "name": "Clementine Bauch",
+      "username": "Samantha"
+    },
+    {
+      "email": "Julianne.OConner@kory.org",
+      "password": "$2a$10$cUkN/X5OgjLe0rfVahgw/OPIAGVG4SJLM7DL6WKFUWTWnhqO79nce",
+      "id": "4",
+      "name": "Patricia Lebsack",
+      "username": "Karianne"
+    },
+    {
+      "email": "thinnqph12915@fpt.edu.vn",
+      "password": "$2a$10$rz7k6/ieiD86nxMfZRNLVeirJ5uyaiu7ERApA.X9aYOJHScwf7KEy",
+      "id": "L80biEl"
+    },
+    {
+      "email": "Sincere@april.biz",
+      "password": "$2a$10$Ru3Bg37BQ9hEJYSynC7qPOge/DtOclpd0Rp3rW1dhl0tlJyJntzTi",
+      "id": "1",
+      "name": "Leanne Graham",
+      "username": "Bret"
+    },
+    {
+      "email": "Shanna@melissa.tv",
+      "password": "$2a$10$ZrTZPvZdFrcCWi2gRUvMwez1ddSs7i1PWon/pxxq6hJW2oqWvAKjK",
+      "id": "2",
+      "name": "Ervin Howell",
+      "username": "Antonette"
+    },
+    {
+      "email": "Lucio_Hettinger@annie.ca",
+      "password": "$2a$10$2yYQw.hmd.OsiRYRAhfsbuq/aA5YVsLOLy2VtcUzZ0SnKk0IgUiHm",
+      "id": "5",
+      "name": "Chelsey Dietrich",
+      "username": "Kamren"
+    },
+    {
+      "email": "nguyenthin34hd@gmail.com",
+      "password": "$2a$10$/gfJSaLxRdZsJPShPMPbE.4cdgcqf2TJeEH1bu3dz3NRi5DmwjiUu",
+      "id": "AtVco6L"
+    }
+  ]
+}

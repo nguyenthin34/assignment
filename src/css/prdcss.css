@@ -1,0 +1,28 @@
+.btn_delete {
+  display: block;
+  margin: 0 auto;
+  line-height: 28pt;
+  padding: 0 20px;
+  background: #ffa580;
+  letter-spacing: 2px;
+  transition: 0.2s all ease-in-out;
+  outline: none;
+  border: 1px solid black;
+  box-shadow: 3px 3px 1px #95a4ff, 3px 3px 1px 1px black;
+}
+
+.btn_update {
+  border: none;
+  padding: 0.9em;
+  background-color: skyblue;
+  color: #fff;
+  letter-spacing: 1.2px;
+  font-size: 0.98rem;
+  text-transform: uppercase;
+  box-shadow: -3px 5px #5bbce4;
+  cursor: pointer;
+  transition: all 0s ease;
+  display: block;
+  margin: 0 auto;
+  margin-top: 1.2em;
+}
